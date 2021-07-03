@@ -8,6 +8,11 @@
 
 <br>
 
+## 🔗 Link da aplicação
+
+[ignews-self-nine.vercel.app](https://ignews-self-nine.vercel.app/)
+
+
 ## 🧪 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
